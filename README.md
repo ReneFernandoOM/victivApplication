@@ -21,7 +21,7 @@ Finally, to run the application, simply do:
 ## Using the API
 This application only has one endpoint:
 
-GET /api/distance_to_mkad
+GET /api/distance_to_mkad - Measure the distance between the address and the nearest point of the MKAD
 
 Required query parameters:
 
