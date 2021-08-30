@@ -12,7 +12,7 @@ To install this application you should clone this repository and set up the next
 
 Next you should install the required dependencies:
 
-    pip install requirements.txt
+    pip install -r requirements.txt
 
 Finally, to run the application, simply do:
 
